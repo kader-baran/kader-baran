@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Kader Baran 👋
 
-<!--
-**kader-baran/kader-baran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## QA Automation Engineer | Frontend & Backend Enthusiast
 
-Here are some ideas to get you started:
+I am a Software QA Engineer focused on **test automation, API testing and end-to-end testing**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to QA, I am also improving myself in **frontend and backend development** by building small projects and automation tools.
+
+My goal is to become a strong engineer who understands **both software development and software testing.**
+
+---
+
+## 🔧 Tech Stack
+
+### QA / Testing
+- Playwright
+- API Testing
+- Postman
+- End-to-End Testing
+- Test Automation
+- Software Quality Assurance
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Responsive Web Design
+- UI Testing
+
+### Backend
+- Node.js
+- REST API
+- Basic Backend Development
+- API Automation Testing
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Cursor
+- CI/CD Basics
